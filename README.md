@@ -21,3 +21,4 @@ Projede  React Testing Library kullanılarak  entegrasyon testleri yazılmışt�
 * Tailwindcss
 
 # Ekran GİF
+![Video Screen1736700475940](https://github.com/user-attachments/assets/16b80c65-a641-4654-a2dc-59ceccf69471)
